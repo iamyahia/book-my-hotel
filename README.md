@@ -1,4 +1,4 @@
-## instagram: [@yahiahbaiz ]([https://www.github.com/octokatherine](https://www.instagram.com/yahiahbaiz/]) is where you can locate my activity.
+## instagram: [@yahiahbaiz ](https://www.github.com/octokatherine](https://www.instagram.com/yahiahbaiz/) is where you can locate my activity.
 
 # Treact cloned template
 
