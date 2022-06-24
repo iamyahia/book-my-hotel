@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Treact/static/css/main.25d00d43.css",
+    "main.js": "/Treact/static/js/main.366a17d5.js",
+    "static/media/slick.svg": "/Treact/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Treact/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Treact/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Treact/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Treact/index.html",
+    "main.25d00d43.css.map": "/Treact/static/css/main.25d00d43.css.map",
+    "main.366a17d5.js.map": "/Treact/static/js/main.366a17d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25d00d43.css",
+    "static/js/main.366a17d5.js"
+  ]
+}
