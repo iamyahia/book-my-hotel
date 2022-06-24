@@ -2,6 +2,9 @@
 
 # Treact cloned template
 
+## Demo
+ watch live demo : [( click here )](https://iamyahia.github.io/Treact/).
+
 ![1](https://user-images.githubusercontent.com/90482598/175720990-e4138d88-21af-4086-b9db-feecc4ca1e35.png)
 
 
