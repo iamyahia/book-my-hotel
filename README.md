@@ -2,7 +2,7 @@
 
 # Treact cloned template
 
-This project is an exact copy of another website [( click to show original website )](https://www.github.com/octokatherine).
+This project is an exact copy of another website [( click to show original website )](https://treact.owaiskhan.me/components/landingPages/HotelTravelLandingPage).
 
 Treact is a hotel reservation front-end template.
 
