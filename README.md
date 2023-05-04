@@ -1,4 +1,4 @@
-## instagram: [@yahiabaiz](https://www.instagram.com/yahiabaiz/) is where you can locate my activity.
+instagram: [@yahiabaiz](https://www.instagram.com/yahiabaiz/) is where you can locate my activity.
 
 # Treact cloned template
 
