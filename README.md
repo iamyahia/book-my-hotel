@@ -8,13 +8,13 @@
 ![1](https://user-images.githubusercontent.com/90482598/175720990-e4138d88-21af-4086-b9db-feecc4ca1e35.png)
 
 
-This project is an exact copy of another website [( click to show original website )](https://treact.owaiskhan.me/components/landingPages/HotelTravelLandingPage).
+This project is a duplicate of another website [( click to view the original )](https://treact.owaiskhan.me/components/landingPages/HotelTravelLandingPage).
 
 Treact is a hotel reservation front-end template.
 
-I worked **extremely carefully** on the design of this website with  help of ( ReactJs, MaterialUi, with many more packages).
+I worked **carefully** on the design of this website using (ReactJs, MaterialUi, and many other packages).
 
-My goal in building this template was to demonstrate my abilities and to challenge myself to build a sophisticated website, then alhamdullilah i'm doing it very well.
+My purpose in creating this template was to display my talents and challenge myself to create a complex website, and alhamdulillah, I'm succeeding admirably.
 
 other view of website
 Tablet size
@@ -25,6 +25,5 @@ mobile size
 
 you can check your self...
 
-Finally, I wish you a pleasant time.
-wait to the next project 
-an sha allah - ان شاء اللە
+You may examine yourself...
+Finally, I wish you a good time. wait for the next project - in sha Allah
